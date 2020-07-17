@@ -1,0 +1,7 @@
+PostForm = 202, 0, 800, 430, Z, -25, 41, 957, 598, C
+PaymentProperty = 26, 26, 624, 456, C
+AddressData = 52, 0, 650, 430, 
+IdentificationData = 78, 0, 676, 430, 
+SvedDoxodData = 104, 104, 702, 534, C
+SvedNedvData = 130, 130, 728, 560, C
+TransportData = 156, 156, 754, 586, C
